@@ -1,0 +1,60 @@
+1677241930667	geckodriver	INFO	Listening on 127.0.0.1:56221
+1677241933625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56222" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\504703\\AppData\\Local\\Temp\\rust_mozprofilenMPCwj"
+1677241935032	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677241935046	Marionette	INFO	Listening on port 56241
+Read port: 56241
+WebDriver BiDi listening on ws://127.0.0.1:56222
+1677241935354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\504703\\AppData\\Local\\Temp\\rust_mozprofilenMPCwj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56222/devtools/browser/dd877f54-af96-4a11-a5f2-bf6a78accec4
+JavaScript warning: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://asesweb.governoeletronico.gov.br."
+JavaScript warning: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1677242139687	Marionette	INFO	Stopped listening on port 56241
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1677242143088	geckodriver	INFO	Listening on 127.0.0.1:56340
+1677242146054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\504703\\AppData\\Local\\Temp\\rust_mozprofileaUZ4J4"
+1677242146882	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677242146892	Marionette	INFO	Listening on port 56356
+Read port: 56356
+WebDriver BiDi listening on ws://127.0.0.1:56341
+1677242147150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\504703\\AppData\\Local\\Temp\\rust_mozprofileaUZ4J4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56341/devtools/browser/9cd17dd6-68c5-4609-90b4-35fa2cac3018
+JavaScript warning: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+JavaScript error: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/acessibilidade.js, line 40: ReferenceError: gotoConteudo is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://asesweb.governoeletronico.gov.br."
+JavaScript warning: https://asesweb.governoeletronico.gov.br/inicial_arquivos/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1677242366690	Marionette	INFO	Stopped listening on port 56356
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
