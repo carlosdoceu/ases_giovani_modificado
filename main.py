@@ -31,6 +31,7 @@ for url in urls:
     percentage = len(navegador.find_elements(By.XPATH,'/html/body/section/div/div[1]/div[4]/div[2]/div[1]/div/div/span'))
 
 
+
     resultTab = []
     for i in range(1, rows + 1):
         d = []
@@ -38,17 +39,24 @@ for url in urls:
             d.append(navegador.find_element(By.XPATH,"//*[@id='tabelaErros']/tbody/tr[" + str(i) + "]/td[" + str(j) + "]").text)
         resultTab.append({"secao": d[0], "erros": d[1], "avisos": d[2]})
 
+
     resultTotal = []
     for i in range(1, row_total + 1 ):
         d = []
         for j in range(1, cols_total + 1):
             d.append(navegador.find_element(By.XPATH,"//*[@id='tabelaErros']/tfoot/tr[" + str(i) + "]/td[" + str(j) + "]").text)
-        resultTotal.append({"Total "+"erros": d[1],"aviso": d[2]})
+        resultTotal.append({"Total": d[0],"erros": d[1],"aviso": d[2]})
+
+    percent = []
+    for p in range(1, percentage +1):
+        percent.append(navegador.find_element(By.XPATH,"//*[@id='webaxscore']/span["+str(p)+"]").text)
+    percent.append({percent[0]})
+
 
 
     print(resultTab)
     print(resultTotal)
-
+    print(percent)
 
 
 
