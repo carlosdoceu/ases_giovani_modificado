@@ -11,7 +11,7 @@ import csv
 
 options = webdriver.ChromeOptions()
 
-options.add_argument("--headless")
+# options.add_argument("--headless")
 
 navegador = webdriver.Chrome(chrome_options=options)
 
@@ -75,7 +75,7 @@ for url in urls:
     templist.append(resultTotal)
     templist.append(percent)
     df = pd.DataFrame(templist)
-    df.to_csv('table.xlsx')
+    df.to_csv('table.csv')
     driver.close()
 
 
