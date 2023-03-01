@@ -1,4 +1,4 @@
 ,0,1,2,3,4,5
-0,"{'Marcação erros': '19', 'avisos': '213'}","{'Comportamento erros': '2', 'avisos': '11'}","{'Conteúdo/Informação erros': '30', 'avisos': '7'}","{'Apresentação / Design erros': '0', 'avisos': '2'}","{'Multimídia erros': '0', 'avisos': '0'}","{'Formulários erros': '5', 'avisos': '3'}"
-1,"{'Total erros': '56', 'aviso': '236'}",,,,,
-2,89.07%,,,,,
+0,"{'Marcação erros': '13', 'avisos': '216'}","{'Comportamento erros': '2', 'avisos': '11'}","{'Conteúdo/Informação erros': '25', 'avisos': '6'}","{'Apresentação / Design erros': '0', 'avisos': '2'}","{'Multimídia erros': '0', 'avisos': '0'}","{'Formulários erros': '0', 'avisos': '3'}"
+1,"{'Total erros': '40', 'aviso': '238'}",,,,,
+2,95.2%,,,,,
