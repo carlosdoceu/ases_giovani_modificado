@@ -76,6 +76,8 @@ for url in urls:
     templist.append(percent)
     df = pd.DataFrame(templist)
     df.to_csv('table.csv')
+
+
     driver.close()
 
 
